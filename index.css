@@ -23,7 +23,7 @@ header a{
 }
 nav {
     background-color:rgb(235, 243, 232);
-    height: 150px;
+    height: 300px;
     position:sticky;
     top: 0px;
     
@@ -50,7 +50,7 @@ li{
     float:left;
     padding-right: 80px; 
     font-size:30px ;
-    padding-top:-800px;
+    padding-top:50px;
     text-decoration: double;
     font-weight: bold ;
     font-family: 'Times New Roman', Times, serif;
