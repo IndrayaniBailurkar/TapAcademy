@@ -1,0 +1,137 @@
+
+
+
+header{
+    background-color:rgb(255, 187, 92);
+    height: 50px;
+    padding-top: 30px;
+}
+
+
+
+
+
+header a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10pxpx;
+    color:rgb(154, 68, 68);
+    text-decoration: none;
+    padding-left: 5px;
+
+
+
+}
+nav {
+    background-color:rgb(235, 243, 232);
+    height: 150px;
+    position:sticky;
+    top: 0px;
+    
+    
+}
+
+.navbar ul li a:hover{
+    color: black;
+}
+
+
+
+
+
+
+
+ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    float: right;
+    justify-content: center;
+   align-items: center;
+   text-decoration: none;
+}
+li{
+    float:left;
+    padding-right: 80px; 
+    font-size:30px ;
+    padding-top:50px;
+    text-decoration: double;
+    font-weight: bold ;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: rgb(79, 111, 82);
+
+
+
+}
+  nav :hover{
+    color: blue;
+  }
+
+button{
+    font-weight: bold ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ /* section{
+    background-color:rgb(198, 61, 47);
+} */
+section p{
+    color:rgb(61, 12, 17);
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 150px ;
+    padding-top: 30px;
+    
+}
+section h1{
+    color:rgb(61, 12, 17);
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 150px ;
+
+}
+section aside {
+    padding-left:900px ;
+    padding-top: -500px;
+}
+article {
+
+
+    background-color: rgb(79, 111, 82);
+    /* font-size:50px;  */
+     padding-left: 310px;
+     height:400px;
+     padding-top: 50px;
+}
+.a{
+    padding-top:60px; 
+    padding-left: 180px;
+}
+fieldset{
+    color:rgb(61, 12, 17);
+}
+img.p{
+    width: 400px;
+    height: 400px;
+    
+    
+    
+}
+
+
+div.address {
+    width:700px;
+    height:500px;
+    background-color: rgb(255, 187, 92);
+    margin-left: 600px;
+    border-radius: 50px;
+}
+div.try{
+    background-color: rgb(255, 187, 92);
+    margin-top: -70px;
+    height:500px;
+    border-bottom-right-radius: 200px;
+    
+
+    
+}
