@@ -50,13 +50,14 @@ li{
     float:left;
     padding-right: 80px; 
     font-size:30px ;
-    padding-top:50px;
+    padding-top:-800px;
     text-decoration: double;
     font-weight: bold ;
     font-family: 'Times New Roman', Times, serif;
     
     color: rgb(79, 111, 82);
     position: sticky;
+    
 
 
 
